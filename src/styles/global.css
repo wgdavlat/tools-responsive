@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+.sun {
+	top: -4rem;
+	right: -1rem;
+}
+
+.rainy {
+	top: 1rem;
+	right: 5rem;
+}
